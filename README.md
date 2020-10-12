@@ -1,3 +1,3 @@
-# codechefsolutions
+# codeforcessolutions
 
 cpp solutions to codeforces problems
